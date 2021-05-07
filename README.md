@@ -9,6 +9,6 @@ We've built some great stuff and we've written about it, you can check it out [h
 <p align="center">
    <a href="https://github.com/yelsayed">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yelsayed&count_private=true" alt="Yasser El-Sayed's Commits"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelsayed&show_icons=true&layout=compact&hide=css,java" alt="Yasser El-Sayed's Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelsayed&show_icons=true&layout=compact&hide=css,java,html,c" alt="Yasser El-Sayed's Languages" />
   </a>
 </p>
