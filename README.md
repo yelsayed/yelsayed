@@ -8,7 +8,7 @@ We've built some great stuff and we've written about it, you can check it out [h
 
 <p align="center">
    <a href="https://github.com/yelsayed">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yelsayed&show_icons=true&theme=dark&count_private=true" alt="Yasser El-Sayed's Commits"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yelsayed" alt="Yasser El-Sayed's Commits"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelsayed&show_icons=true&theme=dark&layout=compact&exclude_repo=nba-stats-codeigniter&hide=css,html" alt="Yasser El-Sayed's Languages" />
   </a>
 </p>
