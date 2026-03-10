@@ -1,6 +1,8 @@
 ### 👋🏼 Welcome to my Github
 
-Currently a Scalien at Scale AI.
+Now I'm a founding engineer in 1001 AI.
+
+Then did Scale for 6 months.
 
 2 years prior worked on the backend systems of [Splitgate 2](https://www.splitgate.com/) which is a first person shooter game developed by 1047 Games.
 
